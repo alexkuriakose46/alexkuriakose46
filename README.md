@@ -21,7 +21,7 @@
 - 🚀 Always exploring new technologies and building dynamic, scalable applications.
 - 📫 How to reach me: [My Portfolio](https://alexkuriakose.xo.je/?i=1)
 
-> **🔒 Note:** The vast majority of my work and commits are in **Private Repositories** due to enterprise NDAs and client confidentiality agreements. While you can see my activity graph, the source code for those projects is not publicly visible.
+> **🔒 Note:** Working on some interesting projects behind the scenes.
 
 ---
 
