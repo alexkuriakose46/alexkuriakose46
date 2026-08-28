@@ -55,21 +55,6 @@
 
 <br>
 
-<h2 align="center">◒ About Me</h2>
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="35%" style="border: none; text-align: center;">
-      <img src="https://github.com/alexkuriakose46.png" alt="Alex Kuriakose" width="200px" style="border-radius: 50%;" />
-    </td>
-    <td width="65%" style="border: none; font-size: 16px;">
-      Hello! My name is <b>Alex Kuriakose</b>, and I am an AI & Data Science Engineer / Full-Stack Developer. I specialize in bridging Artificial Intelligence, Data Science, and Full-Stack Engineering to build robust systems. My expertise ranges from building predictive models, neural networks, and computer vision pipelines to developing scalable web platforms, interactive dashboards, and IoT/embedded systems (ESP32/Arduino).
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">◒ Focus & Goals</h2>
 
 <div align="center">
