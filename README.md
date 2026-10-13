@@ -8,6 +8,10 @@
 
 <br>
 
+<img src="./assets/developer.gif" width="220" alt="Animated Cartoon Developer" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1400&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=I+wonder+what+if.;Not+here+to+repeat+what%27s+been+done.;Reality+is+still+a+work+in+progress.;There+is+more+to+discover.;What+if+it+could+be+different%3F" />
 
 <br><br>
