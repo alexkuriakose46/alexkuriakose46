@@ -43,16 +43,19 @@
 
 <div align="center">
 
-## 📊 Stats
+## 📊 GitHub Analytics
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexkuriakose46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuriakose46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=alexkuriakose46&show_icons=true&theme=tokyonight&border_color=00d4ff&border_radius=12&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_rank=true" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuriakose46&theme=tokyonight&border_color=00d4ff&border_radius=12&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+</p>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexkuriakose46&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexkuriakose46&theme=tokyonight&border_radius=12&border=00d4ff&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+</p>
 
 </div>
 
