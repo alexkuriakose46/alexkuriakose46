@@ -58,62 +58,6 @@
 
 <br>
 
----
-
-<br>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexkuriakose46/alexkuriakose46/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexkuriakose46/alexkuriakose46/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alexkuriakose46/alexkuriakose46/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexkuriakose46&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="100%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=alexkuriakose46&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexkuriakose46&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:243b55,100:141e30&height=120&section=footer&fontColor=00d4ff&fontSize=16&text=Let%27s+build+something+extraordinary+%F0%9F%9A%80&animation=twinkling" width="100%" />
 </div>
