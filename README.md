@@ -48,7 +48,7 @@
 <br>
 
 <p align="center">
-  <img height="195" src="https://raw.githubusercontent.com/alexkuriakose46/alexkuriakose46/main/github-stats.svg?v=2" />
+  <img height="195" src="./github-stats.svg" />
   &nbsp;&nbsp;
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuriakose46&theme=tokyonight&border_color=00d4ff&border_radius=12&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 </p>
