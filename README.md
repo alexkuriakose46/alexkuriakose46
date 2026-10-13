@@ -16,10 +16,10 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkuriakose46)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://alexkuriakose.xo.je/?i=2)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkuriakose46@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexkuriakose)
+<a href="https://www.linkedin.com/in/alexkuriakose46" target="_blank"><img src="./assets/linkedin.svg" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://alexkuriakose.xo.je/?i=2" target="_blank"><img src="./assets/portfolio.svg" width="48" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="mailto:alexkuriakose46@gmail.com" target="_blank"><img src="./assets/gmail.svg" width="48" height="48" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://t.me/alexkuriakose" target="_blank"><img src="./assets/telegram.svg" width="48" height="48" alt="Telegram" /></a>
 
 </div>
 
