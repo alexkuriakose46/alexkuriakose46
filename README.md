@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141e30,50:243b55,100:0f0c29&fontColor=ffffff&height=320&section=header&text=Alex%20Kuriakose&fontSize=75&desc=AI%20Data%20Science%20Engineer&descSize=24&descAlignY=75&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%" />
-
-</div>
-
-<div align="center">
-
-<br>
-
-<img src="./assets/developer.gif" width="220" alt="Animated Cartoon Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:141e30,100:00d4ff&fontColor=ffffff&height=220&section=header&text=Alex%20Kuriakose&fontSize=62&fontAlignY=38&desc=AI%20Data%20Science%20Engineer&descSize=22&descAlignY=68&animation=twinkling&stroke=00d4ff&strokeWidth=1" width="100%" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1400&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=I+wonder+what+if.;Not+here+to+repeat+what%27s+been+done.;Reality+is+still+a+work+in+progress.;There+is+more+to+discover.;What+if+it+could+be+different%3F" />
+<img src="./assets/cyberpunk-coder.gif" width="560" alt="Cyberpunk AI Workspace" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=I+wonder+what+if.;Not+here+to+repeat+what%27s+been+done.;Reality+is+still+a+work+in+progress.;There+is+more+to+discover.;What+if+it+could+be+different%3F" />
 
 <br><br>
 
