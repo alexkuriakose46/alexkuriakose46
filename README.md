@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=Building+things+that+think+%F0%9F%A4%96;Designing+experiences+that+feel+alive+%E2%9C%A8;AI+%2B+Web+%2B+Hardware+%E2%80%94+all+in+one+%F0%9F%9A%80;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3+to+everywhere+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1400&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=I+wonder+what+if.;Not+here+to+repeat+what%27s+been+done.;Reality+is+still+a+work+in+progress.;There+is+more+to+discover.;What+if+it+could+be+different%3F" />
 
 <br><br>
 
